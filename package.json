@@ -1,0 +1,17 @@
+{
+  "name": "note-twitter-favorites",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "m4kvn",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^3.0.0",
+    "twitter": "^1.7.1",
+    "util": "^0.12.2"
+  }
+}
